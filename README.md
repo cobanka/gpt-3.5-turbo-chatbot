@@ -15,6 +15,10 @@ This is a simple chatbot based on gpt-3.5-turbo, whisper-1 and tkinter.
 6. playsound
 7. aip (baidu ai sdk)
 
+pip install threadsafe-tkinter
+pip install baidu-aip
+pip install pyttsx3
+
 You can install them simply by running `pip install xxx`.
 
 ## Run
